@@ -1,1 +1,1 @@
-# isolation_forest
+# Isolation Forest algorithm and visualization
